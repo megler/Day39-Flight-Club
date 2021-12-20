@@ -10,13 +10,13 @@ For the application to run as written, you will need to set up a Google sheet
 with 2 tabs:
 
 1.  Tab 1 is named "prices" (no quotes) with 3 columns:
-    1. City
-    2. IATA Code
-    3. Lowest Price
+	- City
+    - IATA Code
+    - Lowest Price
 2.  Tab 2 is named "users" (no quotes) with 3 columns:
-    1. First Name
-    2. Last Name
-    3. Email
+    - First Name
+    - Last Name
+    - Email
 
 The sheet itself can be named whatever you want. You'll be prompted by Sheety for
 its name and link.
