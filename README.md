@@ -5,6 +5,22 @@ API used to add/update info on Google Sheet. Python Bootcamp Day 39-40
 
 
 ## Usage
+
+For the application to run as written, you will need to set up a Google sheet
+with 2 tabs:
+
+1.  Tab 1 is named "prices" (no quotes) with 3 columns:
+    1. City
+    2. IATA Code
+    3. Lowest Price
+2.  Tab 2 is named "users" (no quotes) with 3 columns:
+    1. First Name
+    2. Last Name
+    3. Email
+
+The sheet itself can be named whatever you want. You'll be prompted by Sheety for
+its name and link.
+
 See comments on main.py. Application allows you to acquire new customers and add
 their info to a tab on a Google Sheet.
 
